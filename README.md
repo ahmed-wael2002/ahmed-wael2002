@@ -54,5 +54,6 @@
 
 <br clear="both">
 
+ ![Snake animation](https://github.com/ahmed-wael2002/ahmed-wael2002/blob/output/github-contribution-grid-snake.svg)
 
 ###
