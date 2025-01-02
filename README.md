@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-wael2002" alt="ahmed-wael2002" /></a> </p>
 
+<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611srfgkyi3dpljih562zt47n40nt52fgfultr0au09&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 - 🔭 I’m currently working on **Safety Analysis of Automated Driving Platforms Using Digital Twin Simulation & Run-time Monitoring, Phase-II**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13gz9Prxz-W0aovZZudJMLgzsyBI_yKRj/view?usp=sharing](https://drive.google.com/file/d/13gz9Prxz-W0aovZZudJMLgzsyBI_yKRj/view?usp=sharing)
+- 📄 Know about my experiences https://shorturl.at/W3g0C
 
 - ⚡ Fun fact **I love graphic design!**
 
@@ -22,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-wael2002&show_icons=true&locale=en&layout=compact" alt="ahmed-wael2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-wael2002&show_icons=true&locale=en" alt="ahmed-wael2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-wael2002&" alt="ahmed-wael2002" /></p>
