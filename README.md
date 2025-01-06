@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Safety Analysis of Automated Driving Platforms Using Digital Twin Simulation & Run-time Monitoring, Phase-II**
 
-- 📄 Know about my experiences https://shorturl.at/W3g0C
+- 📄 Know about my experiences [https://shorturl.at/W3g0C](https://shorturl.at/ds3EA)
 
 - ⚡ Fun fact **I love graphic design!**
 
