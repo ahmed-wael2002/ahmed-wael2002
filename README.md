@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Wael</h1>
-<h3 align="center">CESS student @ ASU-FoE / UEL Engineering Student | Siemens Grad Project Student | Embedded Systems Enthusiast | Flutter Development Enthusiast</h3>
+<h3 align="center">CESS Graduate @ ASU-FoE / UEL | Embedded Systems Enthusiast | Flutter Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-wael2002&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-wael2002" /> </p>
 
@@ -9,7 +9,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611srfgkyi3dpljih562zt47n40nt52fgfultr0au09&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-- 🔭 I’m currently working on **Safety Analysis of Automated Driving Platforms Using Digital Twin Simulation & Run-time Monitoring, Phase-II**
+- 🔭 My graduation project was on **Safety Analysis of Automated Driving Platforms Using Digital Twin Simulation & Run-time Monitoring, Phase-II**, Sponsored by **Siemens DISW Egypt**
 
 - 📄 Know about my experiences [https://shorturl.at/W3g0C](https://shorturl.at/ds3EA)
 
