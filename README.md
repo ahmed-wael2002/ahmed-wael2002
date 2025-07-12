@@ -9,7 +9,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611srfgkyi3dpljih562zt47n40nt52fgfultr0au09&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-- 🔭 My graduation project was on **Safety Analysis of Automated Driving Platforms Using Digital Twin Simulation & Run-time Monitoring, Phase-II**, Sponsored by **Siemens DISW Egypt**
+- 🎓 My graduation project was on **Safety Analysis of Automated Driving Platforms Using Digital Twin Simulation & Run-time Monitoring, Phase-II**, Sponsored by **Siemens DISW Egypt**
 
 - 📄 Know about my experiences [https://shorturl.at/W3g0C](https://shorturl.at/ds3EA)
 
