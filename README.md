@@ -11,9 +11,9 @@
 
 - 🎓 My graduation project was on **Safety Analysis of Automated Driving Platforms Using Digital Twin Simulation & Run-time Monitoring, Phase-II**, Sponsored by **Siemens DISW Egypt**
 
-- 📄 Know about my experiences [https://shorturl.at/W3g0C](https://shorturl.at/ds3EA)
+- 📄 Know about my experiences [My Resume](https://shorturl.at/gvQlO)
 
-- ⚡ Fun fact **I love graphic design!**
+- ⚡ Fun fact **I play the guitar 🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
